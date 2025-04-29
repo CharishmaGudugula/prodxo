@@ -12,8 +12,9 @@ Features
 
 1. Login form with OTP generation and validation
 2. Product list with images, prices, and add-to-cart functionality
-3. Shopping cart with itemized list and total price calculation
-4. Responsive design using CSS flexbox and media queries
+3. Filter products by category (Smartphones, Laptops, Accessories).
+4. Shopping cart with itemized list and total price calculation
+5. Responsive design using CSS flexbox and media queries
 
 
 Technologies Used
